@@ -15,14 +15,14 @@ export default function Projects() {
       description:
         "An AI-powered platform allowing users to generate, edit, customize, and publish websites through natural language prompts.",
       tech: ["React", "Node.js", "Express.js", "PostgreSQL"],
-      link: "#",
+      link: "https://github.com/AKSHATcseb/AI-website-Generator",
     },
     {
       title: "HealthSetu",
       description:
         "An intelligent healthcare platform providing real-time dialysis availability and smart hospital recommendations using Generative AI.",
       tech: ["Google Cloud", "Generative AI", "Node.js", "REST API"],
-      link: "#",
+      link: "https://dialysisportal.in/",
     },
   ];
 
@@ -76,6 +76,7 @@ export default function Projects() {
 
                 <a
                   href={project.link}
+                  target="_blank"
                   className="flex items-center gap-2 text-slate-400 group-hover:text-indigo-400 transition"
                 >
                   View Project <ArrowUpRight size={18} />

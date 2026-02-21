@@ -27,7 +27,7 @@ export default function Hero() {
   Hi, I'm
   <br />
   <span className="block text-5xl sm:text-6xl md:text-7xl 
-  bg-gradient-to-r from-indigo-400 to-violet-400 
+  bg-linear-to-r from-indigo-400 to-violet-400 
   bg-clip-text text-transparent">
     AKSHAT
   </span>

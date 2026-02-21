@@ -4,7 +4,7 @@ export default function Skills() {
   const skillCategories = [
     {
       title: "Programming",
-      skills: ["Python", "C/C++", "Java", "JavaScript"],
+      skills: ["Python", "C/C++", "JavaScript"],
     },
     {
       title: "Web Development",
@@ -33,7 +33,7 @@ export default function Skills() {
 
       {/* Background Glow */}
       <div className="absolute inset-0 -z-10">
-        <div className="absolute bottom-[-150px] left-[-150px] w-[500px] h-[500px] bg-indigo-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute -bottom-37.5 -left-37.5 w-125 h-125 bg-indigo-500/10 rounded-full blur-3xl"></div>
       </div>
 
       <div className="max-w-6xl mx-auto">
@@ -47,7 +47,7 @@ export default function Skills() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-5xl font-bold">
-            Technical <span className="bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Skills</span>
+            Technical <span className="bg-linear-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Skills</span>
           </h2>
           <p className="text-slate-400 mt-4">
             Technologies and tools I use to build scalable systems.
