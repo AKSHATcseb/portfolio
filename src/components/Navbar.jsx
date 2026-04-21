@@ -51,7 +51,7 @@ export default function Navbar() {
 
           {/* Resume Button */}
           <a
-            href="/resume.pdf"
+            href="/Udhmodya_Resume.pdf"
             download
             className="flex items-center gap-2 px-4 py-2 rounded-lg 
             bg-indigo-600 text-white text-sm 
