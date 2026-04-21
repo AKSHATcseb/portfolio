@@ -6,7 +6,7 @@ export default function Projects() {
     {
       title: "Persplit",
       description:
-        "Built a full-stack expense management mobile application enabling real-time personal and group expense tracking, secure authentication, UPI/QR payments, multiple split methods, and optimized settlement cal culations for faster balance resolution.
+        "Built a full-stack expense management mobile application enabling real-time personal and group expense tracking, secure authentication, UPI/QR payments, multiple split methods, and optimized settlement cal culations for faster balance resolution.",
       tech: ["Flutter", "MongoDB", "Express.js", "Node.js", "REST APIs"],
       link: "#",
     },
