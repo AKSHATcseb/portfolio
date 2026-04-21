@@ -10,13 +10,6 @@ export default function Projects() {
       tech: ["Flutter", "MongoDB", "Express.js", "Node.js", "REST APIs"],
       link: "#",
     },
-    // {
-    //   title: "AI Website Builder",
-    //   description:
-    //     "An AI-powered platform allowing users to generate, edit, customize, and publish websites through natural language prompts.",
-    //   tech: ["React", "Node.js", "Express.js", "PostgreSQL"],
-    //   link: "https://github.com/AKSHATcseb/AI-website-Generator",
-    // },
     {
       title: "HealthSetu",
       description:
