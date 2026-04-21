@@ -6,22 +6,22 @@ export default function Projects() {
     {
       title: "Persplit",
       description:
-        "A full-stack expense management application enabling real-time personal and group expense tracking with optimized settlement calculations.",
+        "Built a full-stack expense management mobile application enabling real-time personal and group expense tracking, secure authentication, UPI/QR payments, multiple split methods, and optimized settlement cal culations for faster balance resolution.
       tech: ["Flutter", "MongoDB", "Express.js", "Node.js", "REST APIs"],
       link: "#",
     },
-    {
-      title: "AI Website Builder",
-      description:
-        "An AI-powered platform allowing users to generate, edit, customize, and publish websites through natural language prompts.",
-      tech: ["React", "Node.js", "Express.js", "PostgreSQL"],
-      link: "https://github.com/AKSHATcseb/AI-website-Generator",
-    },
+    // {
+    //   title: "AI Website Builder",
+    //   description:
+    //     "An AI-powered platform allowing users to generate, edit, customize, and publish websites through natural language prompts.",
+    //   tech: ["React", "Node.js", "Express.js", "PostgreSQL"],
+    //   link: "https://github.com/AKSHATcseb/AI-website-Generator",
+    // },
     {
       title: "HealthSetu",
       description:
-        "An intelligent healthcare platform providing real-time dialysis availability and smart hospital recommendations using Generative AI.",
-      tech: ["Google Cloud", "Generative AI", "Node.js", "REST API"],
+        "Built a scalable healthcare platform tailored for dialysis patients, featuring real-time center availability, transparent pricing, and smart hospital recommendations, all backed by secure data handling and robust cloud infrastructure.",
+      tech: ["ReactJS", "MongoDB", "Express.js", "Node.js", "REST APIs"],
       link: "https://dialysisportal.in/",
     },
   ];
