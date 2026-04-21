@@ -22,10 +22,6 @@ export default function Skills() {
       title: "Tools",
       skills: ["GitHub", "Postman", "Docker", "Selenium", "JIRA"],
     },
-    // {
-    //   title: "Embedded Systems",
-    //   skills: ["Arduino", "Raspberry Pi"],
-    // },
   ];
 
   return (
