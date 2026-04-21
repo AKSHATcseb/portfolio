@@ -12,20 +12,20 @@ export default function Skills() {
     },
     {
       title: "Databases",
-      skills: ["MongoDB", "MySQL", "PostgreSQL"],
+      skills: ["MongoDB", "MySQL"],
     },
     {
       title: "Core Concepts",
-      skills: ["Data Structures & Algorithms", "OOP"],
+      skills: ["Data Structures & Algorithms", "Object Oriented Programming"],
     },
     {
       title: "Tools",
       skills: ["GitHub", "Postman", "Docker", "Selenium", "JIRA"],
     },
-    {
-      title: "Embedded Systems",
-      skills: ["Arduino", "Raspberry Pi"],
-    },
+    // {
+    //   title: "Embedded Systems",
+    //   skills: ["Arduino", "Raspberry Pi"],
+    // },
   ];
 
   return (
